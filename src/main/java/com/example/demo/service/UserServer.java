@@ -139,7 +139,7 @@ public class UserServer{
 		toDo.setId(ObjectId.get());		
 		toDo.setEventID(event.getId());
 		
-		return userRepository.save(toDo);		
+		return toDo;		
 	}
 	
 	
@@ -255,7 +255,7 @@ public class UserServer{
 			
 			service.events().delete("primary", id).execute();
 		
-		userRepository.deleteByeventID(id);
+		//userRepository.deleteByeventID(id);
 		
 	}
 	
