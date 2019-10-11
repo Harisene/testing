@@ -1,0 +1,39 @@
+
+„squid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐïŽ¶ýÿÿÿÿH¼RMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(­¹É#H½RMAJORZ
+CODE_SMELL
+wsquid:S1192i"GDefine a constant instead of duplicating this literal "+05:30" 4 times.(¸¯¸¹H¾RCRITICALZ
+CODE_SMELL
+squid:S00117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæH¿RMINORZ
+CODE_SMELL
+ssquid:S1075;"ARefactor your code to get this URI from a customizable parameter.( “œ¾ùÿÿÿÿHÀRMINORZ
+CODE_SMELL
+k
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+€squid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæHÂRMINORZ
+CODE_SMELL
+€squid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæHÃRMINORZ
+CODE_SMELL
+nsquid:S1854é"@Remove this useless assignment to local variable "updatedEvent".(¤Á¶ÑHÄRMAJORZ
+CODE_SMELL
+_squid:S1481é"1Remove this unused "updatedEvent" local variable.(¤Á¶ÑHÅRMINORZ
+CODE_SMELL
+€squid:S00117Ð"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæHÆRMINORZ
+CODE_SMELL
+„squid:S3457‰"Q%n should be used in place of \n to produce the platform-specific line separator.(ºÂÁìúÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+~squid:S1192‡"HDefine a constant instead of duplicating this literal "primary" 6 times.(’Õ°þÿÿÿÿHÈRCRITICALZ
+CODE_SMELL
+k
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ºÂÁìúÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+f
+squid:S106í"9Replace this use of System.out or System.err by a logger.(ˆÕêÐHÊRMAJORZ
+CODE_SMELL
+k
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿHËRMAJORZ
+CODE_SMELL
+€squid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæHÌRMINORZ
+CODE_SMELL
